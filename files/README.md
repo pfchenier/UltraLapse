@@ -2,6 +2,7 @@ UltraLapse
 ==========
 
 Replace “5” by the duration of your interval in seconds
+
 Replace PASSWORD in shutter.html by your WiFi Camera Password.
 
 TABLE:
