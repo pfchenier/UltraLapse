@@ -18,4 +18,5 @@ NOTE
 ----
 
 Dont forget to set the GoPro to Photo mode
+
 Tip: connect to the GoPro cam a continuous power USB supply. [Like this one, that fits in the housing.](http://cam-do.com/GoProUSBConnectors.html)
