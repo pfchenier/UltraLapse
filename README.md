@@ -30,4 +30,4 @@ http://chernowii.com
 
 Diagram
 -------
-[UltraLapse](ultralapse.jpg)
+![UltraLapse](ultralapse.jpg)
